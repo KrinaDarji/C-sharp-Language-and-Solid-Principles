@@ -1,0 +1,14 @@
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.csproj.AssemblyReference.cache
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.AssemblyInfoInputs.cache
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.AssemblyInfo.cs
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\bin\Debug\netcoreapp3.1\Prac3_polymorphism.exe
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\bin\Debug\netcoreapp3.1\Prac3_polymorphism.deps.json
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\bin\Debug\netcoreapp3.1\Prac3_polymorphism.runtimeconfig.json
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\bin\Debug\netcoreapp3.1\Prac3_polymorphism.runtimeconfig.dev.json
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\bin\Debug\netcoreapp3.1\Prac3_polymorphism.dll
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\bin\Debug\netcoreapp3.1\Prac3_polymorphism.pdb
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.dll
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.pdb
+C:\Users\krina\Desktop\C# Pract\Prac3_polymorphism\Prac3_polymorphism\obj\Debug\netcoreapp3.1\Prac3_polymorphism.genruntimeconfig.cache

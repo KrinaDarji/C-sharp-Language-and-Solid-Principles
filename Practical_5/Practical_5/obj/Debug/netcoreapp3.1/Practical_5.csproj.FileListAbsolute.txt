@@ -1,0 +1,13 @@
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\bin\Debug\netcoreapp3.1\Practical_5.exe
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\bin\Debug\netcoreapp3.1\Practical_5.deps.json
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\bin\Debug\netcoreapp3.1\Practical_5.runtimeconfig.json
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\bin\Debug\netcoreapp3.1\Practical_5.runtimeconfig.dev.json
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\bin\Debug\netcoreapp3.1\Practical_5.dll
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\bin\Debug\netcoreapp3.1\Practical_5.pdb
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.AssemblyInfoInputs.cache
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.AssemblyInfo.cs
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.csproj.CoreCompileInputs.cache
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.dll
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.pdb
+C:\Users\krina\Desktop\C# Pract\Practical_5\Practical_4\obj\Debug\netcoreapp3.1\Practical_5.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\bin\Debug\netcoreapp3.1\pract2.exe
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\bin\Debug\netcoreapp3.1\pract2.deps.json
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\bin\Debug\netcoreapp3.1\pract2.runtimeconfig.json
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\bin\Debug\netcoreapp3.1\pract2.runtimeconfig.dev.json
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\bin\Debug\netcoreapp3.1\pract2.dll
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\bin\Debug\netcoreapp3.1\pract2.pdb
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.csproj.AssemblyReference.cache
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.AssemblyInfoInputs.cache
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.AssemblyInfo.cs
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.csproj.CoreCompileInputs.cache
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.dll
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.pdb
+C:\Users\krina\Desktop\Asp.net Pract\pract2\pract2\obj\Debug\netcoreapp3.1\pract2.genruntimeconfig.cache
